@@ -1,5 +1,4 @@
-# giselcgomez.github.io
-My Personal Webpage using HTML, CSS & Bootstrap
+
 # giselcgomez.github.io
 My Personal Webpage using HTML, CSS & Bootstrap
 
