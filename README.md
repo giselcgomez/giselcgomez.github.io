@@ -12,6 +12,6 @@ My Personal Webpage using HTML, CSS & Bootstrap
 
 
 ---
-##*Where to go from here:*##
+*Where to go from here:*
 
 - I'll be including new programming projects on a weekly basic. Comeback and check them out!
